@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hello, I program things sometimes
+What else am I supposed to put here?
+I mean... I can do art. A bit. Kinda.
 
+### Current Ideas:
+- Mitsuba fork that works properly with blender
+- uhh...
 <!--
 **Lemonade-Avali/Lemonade-Avali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
